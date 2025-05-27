@@ -1,6 +1,6 @@
 {
-    "epoch": 28,
-    "total_step": 13468,
+    "epoch": 30,
+    "total_step": 14430,
     "best_val_f1": 0.9076109047811356,
     "args": {
         "num_epochs": 50,
